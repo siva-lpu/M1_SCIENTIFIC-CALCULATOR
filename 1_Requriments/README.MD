@@ -59,5 +59,6 @@ Scientific Calculator application is capable of performing following functions
 
 ## SWOT ANALYSIS
 
+![scietific calculator  1](https://user-images.githubusercontent.com/62956242/153256859-e62bc215-410c-4f3c-ac96-2d04029b473c.png)
 
 
