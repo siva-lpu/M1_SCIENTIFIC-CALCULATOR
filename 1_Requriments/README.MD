@@ -89,5 +89,12 @@ Scientific Calculator application is capable of performing following functions
 
 ## High Level Requirements:
 
+| ID | Description | Category |	status |
+|---- | ------------- | ----- | ---- |
+| H_01 | Arithematic Operations	operations such +, -, *, /, % |	Implemented |
+| H_02 | Trigonomety operations	sin, cos, tan, cot, cosec , sec | Implemented |
+| H_03 | scientific operations like exponent, power, log, factorial, square root | Implemented |
+| H_04 | opting wrong operation and any time exit and continue again to calculate more	the has to decide where to exit his task and which operation he want to perform | Implemented |
+
 
 
