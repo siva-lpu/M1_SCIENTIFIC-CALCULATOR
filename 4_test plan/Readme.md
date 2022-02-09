@@ -28,7 +28,7 @@
 | L_01 | Division (Quotient, Remainder) divisor 0 | 3,0 | return -1 | return -1 | Scenario based |
 | L_02 | log base 10 for 0 and -ve numbers | -5 | return -1 | return -1 | Boundary based |
 | L_03 | Factorial of -ve numbers | -5 | return -1 | return -1 | Bounndary based |
-| L_04 | Factorial of 0	0 | 1 |	1 | Bounndary based |
+| L_04 | Factorial of 0 |	0 | 1 |	1 | Bounndary based |
 | L_05 | Addition -ve numbers |	-3,-2 |	-5 | -5 | Requirement based |
 | L_06 | Subtraction -ve numbers | -3,-2 | -1 |	-1 | Requirement based |
 | L_07 | Multiplication -ve numbers | -3,-2 | 6	6 | Requirement based |
