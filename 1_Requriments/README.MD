@@ -32,6 +32,7 @@ Matrix Function In this miniproject we implenting some of those features using C
 * Sec : sec() takes a value which is in radian and return sec(x).
 * Cot : cot() takes a value which is in radian and return cot(x).
 
-# Defining Our System
+## Defining Our System
+### Architecture:
 
 
