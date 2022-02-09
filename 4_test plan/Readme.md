@@ -31,7 +31,7 @@
 | L_04 | Factorial of 0 |	0 | 1 |	1 | Bounndary based |
 | L_05 | Addition -ve numbers |	-3,-2 |	-5 | -5 | Requirement based |
 | L_06 | Subtraction -ve numbers | -3,-2 | -1 |	-1 | Requirement based |
-| L_07 | Multiplication -ve numbers | -3,-2 | 6	6 | Requirement based |
+| L_07 | Multiplication -ve numbers | -3,-2 | 6	| 6 | Requirement based |
 | L_08 | Division (Quotient, Remainder) -ve numbers | 10,5 | 2,0 | 2,0 | Requirement based |
 | L_09 | power -ve numbers | -3,-2 | 1,1 | 1,1 | Requirement based |
 | L_10 | exponent -ve number | -5 | 0.007 | 0.007 | Requirement based |
