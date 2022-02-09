@@ -37,6 +37,8 @@ Matrix Function In this miniproject we implenting some of those features using C
 
 ![SCIENTIFIC CALCULATOR](https://user-images.githubusercontent.com/62956242/153251456-01dc4bc3-4281-4fda-9fba-aa67b1add614.png)
 
+Scientific Calculator application is capable of performing following functions
+
 
 
 
