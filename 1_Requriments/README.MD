@@ -18,4 +18,4 @@ Matrix Function In this miniproject we implenting some of those features using C
  Depending upon the project how well it is built and all the requirements will meet the cost and it can be varied according to the market
  
 Addition : sum() takes two values as input and returns x+y
-#Subtraction : substraction() takes two values as input and returns x-y
+# Subtraction : substraction() takes two values as input and returns x-y
