@@ -57,6 +57,7 @@ Scientific Calculator application is capable of performing following functions
     ## e. Sec
     ## f. Cot
 
+## SWOT ANALYSIS
 
 
 
