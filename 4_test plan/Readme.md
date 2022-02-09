@@ -35,10 +35,10 @@
 | L_08 | Division (Quotient, Remainder) -ve numbers | 10,5 | 2,0 | 2,0 | Requirement based |
 | L_09 | power -ve numbers | -3,-2 | 1,1 | 1,1 | Requirement based |
 | L_10 | exponent -ve number | -5 | 0.007 | 0.007 | Requirement based |
-| L_11 | Sin -ve number	-5 | 0.959 | 0.959 | Requirement based |
-| L_12 | Cos -ve number	-5 | 0.284 | 0.284 | Requirement based |
-| L_12 | Tan -ve number	-5 | 3.381 | 3.381 | Requirement based |
-| L_13 | Cot -ve number	-5 | 0.864 | 0.864 | Requirement based |
+| L_11 | Sin -ve number	| -5 | 0.959 | 0.959 | Requirement based |
+| L_12 | Cos -ve number	| -5 | 0.284 | 0.284 | Requirement based |
+| L_12 | Tan -ve number	|-5 | 3.381 | 3.381 | Requirement based |
+| L_13 | Cot -ve number	| -5 | 0.864 | 0.864 | Requirement based |
 | L_14 | Cosec -ve number | -5 | 3.525 | 3.525 | Requirement based |
-| L_15 | Sec -ve number	-5 | 0.296 | 0.296 | Requirement based |
+| L_15 | Sec -ve number	|-5 | 0.296 | 0.296 | Requirement based |
 | L_16 | SquareRoot -ve number | -5 | return -1 | return -1 | Scenario based |
