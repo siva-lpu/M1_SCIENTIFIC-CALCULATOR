@@ -23,9 +23,8 @@
 # Table 2: Low level test plan
 
 ## Note: return -1 is error
-
-| ---- | ------------ | ---- | ----- | ------ | ----- |
 | Test ID | Description | Exp IN | Exp OUT | Actual Out | Type Of Test |
+| ---- | ------------ | ---- | ----- | ------ | ----- |
 | L_01 | Division (Quotient, Remainder) divisor 0 | 3,0 | return -1 | return -1 | Scenario based |
 | L_02 | log base 10 for 0 and -ve numbers | -5 | return -1 | return -1 | Boundary based |
 | L_03 | Factorial of -ve numbers | -5 | return -1 | return -1 | Bounndary based |
