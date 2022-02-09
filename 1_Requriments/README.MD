@@ -85,5 +85,9 @@ Scientific Calculator application is capable of performing following functions
 * The constraints of the project are to develop using industry standards with a multi-file approach.
 * The Timeline of the miniproject is 10 days.
 
+# Detail requirements
+
+## High Level Requirements:
+
 
 
