@@ -13,3 +13,5 @@ Matrix Function In this miniproject we implenting some of those features using C
 
  ## Research
  Research paper The Scientific calculator doesn't involve any complex operations or any operations. It is easy to apply the values in the system to find the required result rather than remembering and applying it in formula. Thus by studying all these facts, the necessary functions has been implemented to get the required results in a better way.
+ 
+ ## Cost and Features
