@@ -39,7 +39,7 @@ Matrix Function In this miniproject we implenting some of those features using C
 
 Scientific Calculator application is capable of performing following functions
 * Arithmetic Operations
-   # a. Addition
+   ## a. Addition
    # b. Subtraction
    # c. Multiplication
 * Scientific Operations
