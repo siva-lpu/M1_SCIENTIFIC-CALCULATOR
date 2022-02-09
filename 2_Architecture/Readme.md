@@ -2,5 +2,5 @@
 
 ### High Level Design
 
-Flow diagram:
+### Flow diagram:
 
