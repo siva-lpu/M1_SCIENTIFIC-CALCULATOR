@@ -19,3 +19,7 @@
 | H_13 | Cosec | 4 | -1.321 | -1.321 | Requirement based|
 | H_14 | Sec | 4  | -1.530 | -1.530 | Requirement based|
 | H_15 | squareRoot | 4 | 2 | 2	 | Requirement based|
+
+# Table 2: Low level test plan
+
+## Note: return -1 is error
