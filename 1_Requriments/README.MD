@@ -59,6 +59,31 @@ Scientific Calculator application is capable of performing following functions
 
 ## SWOT ANALYSIS
 
-![scietific calculator  1](https://user-images.githubusercontent.com/62956242/153256859-e62bc215-410c-4f3c-ac96-2d04029b473c.png)
+![scietific calculator  1](https://user-images.githubusercontent.com/62956242/153256859-e62bc215-410c-4f3c-ac96-2d04029b473c.png
+
+# 4W's and 1'H
+## Who:
+
+* The project is used by everyone in day to day life. All the students and employess who requires the calculations will use the program to find their answer. The main objective of this project is the user should be satisfied with freindly interface and fast calculation
+
+## What:
+
+* We can except the results that user can perform mathematical operations like arthimetic , Trigonometric & Scientific operations.
+* All the basics functionalities are included in the project. User can use the program efficiently and get the required results.
+
+## When:
+
+* The project can be used when the calculations are required and get the results for basic and Math related problems and the result will be obtained fastly.
+
+## Where:
+
+* In all the Domains it can be used and the project is portable and user-friendly, It should overcome all the drawbacks of the Old existing system and most important of all meet the user requirements.
+ 
+## How:
+
+* The Project is going to be implemented in C language for the Both Windows & Linux OS
+* The constraints of the project are to develop using industry standards with a multi-file approach.
+* The Timeline of the miniproject is 10 days.
+
 
 
