@@ -10,3 +10,5 @@ Arithmatic functions
 Scientific functions
 Trigonometric Functions
 Matrix Function In this miniproject we implenting some of those features using C programming which will operate on both Windows and Linux operating systems.
+
+ ## Research
