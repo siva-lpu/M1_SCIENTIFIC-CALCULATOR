@@ -40,22 +40,22 @@ Matrix Function In this miniproject we implenting some of those features using C
 Scientific Calculator application is capable of performing following functions
 * Arithmetic Operations
    ## a. Addition
-   # b. Subtraction
-   # c. Multiplication
+   ## b. Subtraction
+   ## c. Multiplication
 * Scientific Operations
-   # a. Log base 10
-   # b. Power
-   # c .Exponent
-   # d. Square Root
-   # e. Factorial
-   # f. Division give quotient and remainder
+   ## a. Log base 10
+   ## b. Power
+   ## c .Exponent
+   ## d. Square Root
+   ## e. Factorial
+   ## f. Division give quotient and remainder
  * Trigonometric Opretions
-    # a. Sin
-    # b. Cos
-    # c. Tan
-    # d. Cosec
-    # e. Sec
-    # f. Cot
+    ## a. Sin
+    ## b. Cos
+    ## c. Tan
+    ## d. Cosec
+    ## e. Sec
+    ## f. Cot
 
 
 
