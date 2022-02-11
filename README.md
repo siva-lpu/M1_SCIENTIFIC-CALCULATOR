@@ -11,7 +11,7 @@ mini project- SCIENTIFIC CALCULATOR
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4de87119b9124c8ab3f15a25a0b85379)](https://www.codacy.com/gh/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL&amp;utm_campaign=Badge_Grade)
 
  
-
+[![C/C++ CI](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/c-cpp.yml/badge.svg?event=check_run)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/c-cpp.yml)
 
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/62956242/153452868-2480a1c8-26e6-4e16-b2fc-456f7f4144af.png)
