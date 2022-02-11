@@ -24,7 +24,8 @@ mini project- SCIENTIFIC CALCULATOR
 
 
 ## Contributors List and Summary
-### Some Test cases of similar function are merged.
+
+ - Some Test cases of similar function are merged.
 
 
 ## Reference
