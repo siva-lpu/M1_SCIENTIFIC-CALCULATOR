@@ -3,8 +3,9 @@ mini project- SCIENTIFIC CALCULATOR
 
 
 ![code quality ](https://api.codiga.io/project/30973/score/svg)
+![code_grade] (https://api.codiga.io/project/30973/status/svg)
 
-![code grade ]https://api.codiga.io/project/30973/status/svg
+
 ![Screenshot (38)](https://user-images.githubusercontent.com/62956242/153452868-2480a1c8-26e6-4e16-b2fc-456f7f4144af.png)
 
 
