@@ -8,6 +8,8 @@ mini project- SCIENTIFIC CALCULATOR
 
 ![Code grade](https://api.codiga.io/project/30973/status/svg)
 
+[![C/C++ CI](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/c-cpp.yml/badge.svg?event=check_run)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/c-cpp.yml)
+
  
 
 [![C/C++ CI](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/c-cpp.yml/badge.svg?event=check_run)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/c-cpp.yml)
