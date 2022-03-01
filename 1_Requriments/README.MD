@@ -122,6 +122,15 @@ Scientific Calculator application is capable of performing following functions
 | L_18 | press 1 to continue to use calculator or any other key to end | H_04 |	Implemented
 
 
+## Best Methods to followed
+ * Used functions to decrease dependency on main function.
+ * Used structures and arrays and sorting algorithms to accept the inputs from user and store the values which helped in creating easy design of  scientific calculator.
+* Printf statements have been placed only wherever necessary to avoid confusions.
+* Created header file so that the fuctions can be used else where ever required without any difficulty.
+* Unit testing is done to avoid any computational errors.
+
+
+
 
 
 
