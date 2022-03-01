@@ -42,3 +42,10 @@
 | L_14 | Cosec -ve number | -5 | 3.525 | 3.525 | Requirement based |
 | L_15 | Sec -ve number	|-5 | 0.296 | 0.296 | Requirement based |
 | L_16 | SquareRoot -ve number | -5 | return -1 | return -1 | Scenario based |
+
+## Best Practices
+
+ - [x] Checked all the possibilities of output
+ - [x] Mentioned all the inputs for better understanding
+ - [x] Presented in tabular form for easy understanding
+ - [x] Both High level and low level Test plans are shown
