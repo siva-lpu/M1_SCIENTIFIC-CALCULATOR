@@ -12,7 +12,7 @@ mini project- SCIENTIFIC CALCULATOR
 
 [![Valgriend](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Val.yml/badge.svg)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Val.yml)
 
-
+[![Unit Testing](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Unit.yml/badge.svg)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Unit.yml)
  
 [![C/C++ CI](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/c-cpp.yml/badge.svg?event=check_run)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/c-cpp.yml)
 
