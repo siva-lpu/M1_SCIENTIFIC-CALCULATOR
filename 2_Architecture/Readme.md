@@ -22,7 +22,7 @@
 ![low level design2](https://user-images.githubusercontent.com/62956242/153262507-9dd207d9-353f-440c-bb7c-b2bb5bfbfb50.png)
 
 
-## Best Methads to  followeed
+## Best Methods to  followeed
 
 * Best Methods Followed
 * Exact Mapping of code to avoid confusions
