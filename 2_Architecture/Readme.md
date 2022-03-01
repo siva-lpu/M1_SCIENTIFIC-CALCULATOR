@@ -22,6 +22,13 @@
 ![low level design2](https://user-images.githubusercontent.com/62956242/153262507-9dd207d9-353f-440c-bb7c-b2bb5bfbfb50.png)
 
 
+## Best Methads to  followeed
+
+* Best Methods Followed
+* Exact Mapping of code to avoid confusions
+* Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
+* Followed the exact symbols to make the understanding easier
+* Detailed explanation in Low level Behavioural and Structural Diagrams
 
 
 
