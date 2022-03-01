@@ -10,6 +10,9 @@ mini project- SCIENTIFIC CALCULATOR
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4de87119b9124c8ab3f15a25a0b85379)](https://www.codacy.com/gh/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL&amp;utm_campaign=Badge_Grade)
 
+[![Quality Cheack](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Quality.yml/badge.svg)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Quality.yml)
+
+
 [![Static Cheack](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Static.yml/badge.svg)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Static.yml)
 
 [![Valgriend](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Val.yml/badge.svg)](https://github.com/siva-lpu/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Val.yml)
